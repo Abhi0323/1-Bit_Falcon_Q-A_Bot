@@ -41,8 +41,8 @@ pip install -r requirements.txt
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/1-Bit-Falcon-QA-Bot.git
-cd 1-Bit-Falcon-QA-Bot
+git clone https://github.com/<your-username>/1-Bit-Falcon-Q-A-Bot.git
+cd 1-Bit-Falcon-Q-A-Bot
 ```
 
 ### Step 2: Install Dependencies
